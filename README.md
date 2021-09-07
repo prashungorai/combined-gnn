@@ -43,9 +43,9 @@ The files in this repository are curated and maintained by
 * [Prashun Gorai](mailto:pgorai[at]mines[dot]edu)
 
 ### Cite
-"A Graph Neural Network for Predicting Energy and Stability of Known and Hypothetical Crystal Structures"
+"Predicting Energy and Stability of Known and Hypothetical Crystals Using Graph Neural Networks"
 
-S. Pandey, J. Qu, V. Stevanovic, P. St. John, and P. Gorai, *ChemRxiv* (2021). DOI: [insert](dx.doi.org/10.0.0.0)
+S. Pandey, J. Qu, V. Stevanovic, P. St. John, and P. Gorai, *Patterns* (2021). DOI: [insert](dx.doi.org/10.0.0.0)
 
 ### License
 
