@@ -6,7 +6,7 @@
 * Edit the path to structure files (e.g., VASP POSCAR format) on line 25, if using your own crystal structures
 * Execute [preprocess_crystals.py](preprocess_crystals.py)
 ```shell
-python preprocess_crytals.py
+python preprocess_crystals.py
 ```
 * A folder /tfrecords containing following the files will be created: train.tfrecord.gz, valid.tfrecord.gz, test.csv.gz, preprocessor.json
 
