@@ -43,9 +43,19 @@ The files in this repository are curated and maintained by
 * [Prashun Gorai](mailto:pgorai[at]mines[dot]edu)
 
 ### Cite
-"Predicting Energy and Stability of Known and Hypothetical Crystals Using Graph Neural Networks"
-
-S. Pandey, J. Qu, V. Stevanovic, P. St. John, and P. Gorai, *Patterns* (2021). DOI: [insert](dx.doi.org/10.0.0.0)
+```
+@article{pandey2021,
+  title={Predicting energy and stability of known and hypothetical crystals using graph neural network},
+  author={Pandey, Shubham and Qu, Jiaxing and Stevanovi{\'c}, Vladan and John, Peter St and Gorai, Prashun},
+  journal={Patterns},
+  volume={2},
+  pages={100361},
+  year={2021},
+  publisher={Elsevier},
+  url = {https://doi.org/10.1016/j.patter.2021.100361},
+  doi = {10.1016/j.patter.2021.100361}
+}
+```
 
 ### License
 
